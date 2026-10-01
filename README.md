@@ -1,0 +1,2 @@
+# Team-Enrollment-Confirmation---LegalEase-AI-Powered-Legal-Document-generator
+LegalEase is an AI-powered legal document generator that helps users create legal documents quickly and easily. It uses artificial intelligence to generate documents based on user-provided information. The system saves time, reduces errors, and provides simple legal templates. It is useful for students, individuals, and small businesses needing bas
